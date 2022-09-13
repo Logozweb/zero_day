@@ -1,1 +1,1 @@
-now
+vagrant
